@@ -1,4 +1,7 @@
-#container{
+*{
+    font-family: cursive;
+}
+container{
     /* display: flex;
     justify-content: center; */
     background-color: azure;
