@@ -1,0 +1,54 @@
+#container{
+    /* display: flex;
+    justify-content: center; */
+    background-color: azure;
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+#motivation{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+#inputbox{
+    display: flex;
+    justify-content: center;
+}
+#addbutton{
+    cursor: pointer;
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#todos{
+    margin: 20px;
+    padding: 10px;
+}
+#task{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    font-size: small;
+    background-color: rgb(206, 238, 239);
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 12px;
+    box-shadow: 12px;
+}
+#delbutton{
+    height: 30px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: rgb(238, 241, 128);
+    color: black;
+    border: 0px;
+    border-radius: 8px;
+    box-shadow: 5px;
+
+
+}
+#delbutton:hover{
+    background-color: rgb(131, 239, 131);
+    color: white;
+}
