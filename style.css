@@ -1,7 +1,7 @@
 *{
     font-family: cursive;
 }
-container{
+#container{
     /* display: flex;
     justify-content: center; */
     background-color: rgb(106, 192, 232);
